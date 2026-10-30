@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 
-![Bertun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertunn&show_icons=true&theme=tokyonight)
+![Bertun's GitHub stats](https://github.com/bertunalpaydin)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bertunn&layout=compact&theme=tokyonight)
 
