@@ -1,6 +1,6 @@
 # Hi, I'm Bertun 👋
 
-### Computer Science Student @ UWE Bristol (2nd Year)
+### Computer Science Student @ UWE Bristol (Final Year)
 
 ---
 
@@ -32,20 +32,19 @@
 
 ## 📌 Featured Projects
 
-- 🔹 [Apartment Managing System](https-github.com-bertunn-SDGP02526-24004914)  
-  → PAMS Project for managing apartment sytems  
- 
+- 🔹 [Apartment Managing System](https://github.com/bertunalpaydin/SDGP02526-24004914)  
+  → PAMS Project for managing apartment systems  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Bertun's GitHub stats](https://github.com/bertunalpaydin)
+![Bertun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertunalpaydin&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bertunn&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bertunalpaydin&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 - 📧 bertunalpaydinn@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/ogan-bertun-alpaydın-b12ab43a2?utm_source=share_via&utm_content=profile&utm_medium=member_ios)## Hi there 👋
+- 💼 [LinkedIn](https://www.linkedin.com/in/ogan-bertun-alpayd%C4%B1n-b12ab43a2)
