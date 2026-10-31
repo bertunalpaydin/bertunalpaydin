@@ -32,9 +32,13 @@
 
 ## 📌 Featured Projects
 
+- 🔹 [Smart Desktop Voice Assistant](https://github.com/bertunalpaydin/smart-desktop-voice-assistant)  
+  → Jarvis-style desktop voice assistant that reads and sends emails by voice command. Base of my final-year dissertation (in progress)  
+
 - 🔹 [Apartment Managing System](https://github.com/bertunalpaydin/SDGP02526-24004914)  
   → PAMS Project for managing apartment systems  
 
+---
 ---
 
 ## 📈 GitHub Stats
